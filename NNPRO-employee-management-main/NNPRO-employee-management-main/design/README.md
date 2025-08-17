@@ -1,0 +1,1 @@
+# Design, requirements, DB diagrams etc.
